@@ -1,8 +1,8 @@
 ### Salve 🎯
 
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning data analysis
 - 💬 Ask me about solutions
-- ⚡ Fact: Basketball Fan
+- 🏀 Fact: Basketball Fan
 
 <div align="center">
   <a href="https://github.com/guilhjermeavila77">
